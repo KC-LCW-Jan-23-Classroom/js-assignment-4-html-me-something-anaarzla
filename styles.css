@@ -1,1 +1,29 @@
 /* Write your CSS here! */
+#body{
+ margin: 8px;
+ display: block;
+ text-align: center;
+}
+
+#mainHeader{
+    color:red;
+}
+
+#testP, .funparagraph{
+    color: green;
+}
+
+.skills,.contact,.education,.workHistory,.reference{
+    border: 1px solid black;
+  margin: 50px;
+  background-color: lightblue;
+  padding: 20px;
+}
+
+#footer{
+    text-align: center;
+}
+
+.name{
+    text-align: center;
+}
