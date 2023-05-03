@@ -27,6 +27,11 @@
 .name{
     text-align: center;
 }
-#img{
+img{
     border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
